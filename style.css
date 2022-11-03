@@ -1,0 +1,14 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+	background: black;
+}
+.bootom_border{
+	border-bottom: 2px solid white;
+}
+.main{
+	font-size: 22px;
+
+}
