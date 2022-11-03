@@ -12,3 +12,17 @@ body{
 	font-size: 22px;
 
 }
+.head h1{
+	color: white;
+}
+.head h1 b{
+	color: red;
+}
+.head h1 b:hover{
+	color: white;
+	font-size: 25px;
+}
+.head h1:hover{
+	color: red;
+	font-weight: bold;
+}
